@@ -1,14 +1,12 @@
 # Learn-VS-Code
 
-
-
 ![Learn VS Code Cover Image](./images/cover.png)
 
 ***Head over to [Learn VS Code](https://www.learnvscode.com) to learn everything you need to know about the most popular editor in Web Development***
 
 In just a few years, Visual Studio Code has become the most popular editor for Web Development. In short, it is open source, cross-platform, full of functionality, and has an amazing community behind it. Many of the biggest names in Web Development have already made the switch, and so should you! If you're looking to learn the ins and outs of VS Code while increasing your efficiency and proficiency as developer, this course is perfect for you. Whether you're brand new to Web Development or a seasoned veteran, there's something for everyone.
 
-
+> Shortcut references will use ctrlCmd to represent the control key on Windows and the Command key on Mac.  If the shortcuts on Windows vs. Mac are different, they will be separated by the '|' character, with Mac coming first.
 
 ## 1. [Getting Started](./sections/GettingStarted.md)
 
