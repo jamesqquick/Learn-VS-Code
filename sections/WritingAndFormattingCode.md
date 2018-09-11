@@ -76,7 +76,8 @@
         2. How to create an TSLint configuration file and/or the install and customize TSLint extension
         3. Manually and automatically format code
     2. Resources
-        1. [TSLint extension](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+        1. [TSLint](https://palantir.github.io/tslint/) 
+        2. [TSLint extension](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
     3. Pro Tips
         1. Find a configuration that works you and stick with it
 8. VS Code Live Share
