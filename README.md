@@ -38,7 +38,7 @@ In this section, we will learn how to use and customize the integrated terminal.
 
 [Learn more](./sections/IntegratedTerminal.md)
 
-## 7. [WorkingWithGit](./sections/WorkingWithGit.md)
+## 7. [Working With Git](./sections/WorkingWithGit.md)
 
 In this section, we will learn how to take advantage of the built in tooling for Git as well as useful extensions for working with Git as well.
 
