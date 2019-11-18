@@ -8,6 +8,11 @@ In just a few years, Visual Studio Code has become the most popular editor for W
 
 > Shortcut references will use ctrlCmd to represent the control key on Windows and the Command key on Mac.  If the shortcuts on Windows vs. Mac are different, they will be separated by the '|' character, with Mac coming first.
 
+## Sample Projects to use During Demos
+
+- Design and Build a Chat Application with Socket.io - https://github.com/jamesqquick/Design-and-Build-a-Chat-Application-with-Socket.io
+- Color Lighten/Darken Tools - https://github.com/jamesqquick/lighten-darken-color-tool
+
 ## 1. [Getting Started](./sections/GettingStarted.md)
 
 In this section, we will discuss available resources, the what and why behind VS Code, and how to download and install.
