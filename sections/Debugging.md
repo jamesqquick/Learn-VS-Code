@@ -102,7 +102,7 @@ Create React App Applications (you will need to start your app with `npm start`)
 {
     "type": "chrome",
     "request": "launch",
-    "name": "Launch Chrome against localhost for Angular",
+    "name": "Launch Chrome against localhost for React",
     "url": "http://localhost:3000",
     "webRoot": "${workspaceFolder}/src"
 }
