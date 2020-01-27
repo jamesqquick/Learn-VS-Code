@@ -10,6 +10,7 @@ In just a few years, Visual Studio Code has become the most popular editor for W
 
 ## Sample Projects to use During Demos
 
+- Build a Quiz App with HTML, CSS, and JavaScript - https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript
 - Design and Build a Chat Application with Socket.io - https://github.com/jamesqquick/Design-and-Build-a-Chat-Application-with-Socket.io
 - Color Lighten/Darken Tools - https://github.com/jamesqquick/lighten-darken-color-tool
 
