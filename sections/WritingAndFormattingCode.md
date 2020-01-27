@@ -70,16 +70,6 @@
         2. [ESLint getting started](https://eslint.org/docs/user-guide/getting-started)
     3. Pro Tips
         1. Find a configuration that works you and stick with it
-7. Linting and Formatting TypeScript Code TSLint
-    1. What we’ll cover
-        1. How to install the TSLint package
-        2. How to create an TSLint configuration file and/or the install and customize TSLint extension
-        3. Manually and automatically format code
-    2. Resources
-        1. [TSLint](https://palantir.github.io/tslint/) 
-        2. [TSLint extension](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-    3. Pro Tips
-        1. Find a configuration that works you and stick with it
 8. VS Code Live Share
     1. What we’ll cover
         1. How to share and edit code with others in real-time
