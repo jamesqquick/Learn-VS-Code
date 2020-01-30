@@ -55,3 +55,9 @@ In this section, we will learn how to take advantage of the built in tooling for
 In this section, we will learn how to debug front-end JavaScript and back-end JavaScript as well as Angular, React, and Vue applications.
 
 [Learn more](./sections/Debugging.md)
+
+## 9. [Extras](./sections/Extras.md)
+
+In this section, we will learn about extra misc. features of VS code.
+
+[Learn more](./sections/Extras.md)
