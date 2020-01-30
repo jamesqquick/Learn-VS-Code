@@ -35,8 +35,7 @@
         1. `Shift + Alt + F` – format document
         2. `ctrlCmd + .` – to show available code actions
         3. `Command Palette` -> Organize Imports – organize imports
-        4. `ctrlCmd + K cntrl + C` – comment current line
-        5. `ctrlCmd + K cntrl + U` – uncomment current line
+        4. `ctrlCmd + /` – toggle comment line
         6. `ctrlCmd + Option [` - minimize coding folding region
         7. `ctrlCmd + Option ]` - maximize coding folding region
         8. `ctrlCmd + K ctrlCmd + 0` – minimize all code folding regions
